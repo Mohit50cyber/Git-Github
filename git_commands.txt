@@ -15,3 +15,12 @@ git clone https://github.com/Mohit50cyber/Git-Github.git
 
 
 There are some new changes
+
+git branch
+git checkout -b dev                       // create athe branch and switch to the new branch
+git branch dev --> git switch dev  
+git branch -d dev                         //to delete branch
+git branch -D dev                         //to forcefully delete the branch
+git push origin --delete branch_name      //remove a remote branch
+
+  
