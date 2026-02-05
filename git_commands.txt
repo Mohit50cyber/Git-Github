@@ -1,0 +1,8 @@
+git init
+git status
+git add testing.py
+git add .
+git rm --cached testing.py  //untracked to staged
+git commit -m "--"  //staged to tracked
+rm testing.py
+git restore testing.py
