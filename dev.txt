@@ -6,4 +6,8 @@ So I have created 2 PR(pull request) , it's time to party
 Now when I have created two pr , I have done something here.
 
 
-Now currently I am in dev branchNow I'll be merging with main branch
+Now currently I am in dev branch 
+Now I'll be merging with main branch
+
+Now I'll be merging the last PR , my 13 commit
+Hope it'll do good as usual
