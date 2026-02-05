@@ -9,3 +9,4 @@ git restore testing.py
 git remote add origin https://github.com/Mohit50cyber/Git-Github.git
 git branch -M main
 git push -u origin main
+git remote -v       //to check whether local is connected to github
