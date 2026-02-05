@@ -6,3 +6,6 @@ git rm --cached testing.py  //untracked to staged
 git commit -m "--"  //staged to tracked
 rm testing.py
 git restore testing.py
+git remote add origin https://github.com/Mohit50cyber/Git-Github.git
+ git branch -M main
+ git push -u origin main
